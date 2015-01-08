@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+    font-family: "Courier New"; 
+}
+h1 {
+    color: navy;
+} 
+p{
+	color: orange; 
+}
+a{
+	color:white;
+	text-decoration: none; 
+}
+a:hover{
+	color: lightblue;
+}
